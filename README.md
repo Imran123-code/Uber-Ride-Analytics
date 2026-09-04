@@ -5,7 +5,7 @@ An interactive Power BI dashboard designed to analyze Uber ride performance, rev
 ## 📊 Dashboard Preview
 
 ### Home
-![Home](project%20Screenshots/home.png)
+![Home](projectScreenshots/home.png)
 
 ### Overview
 ![Overview](project%20Screenshots/overview.png)
