@@ -4,14 +4,19 @@ An interactive Power BI dashboard designed to analyze Uber ride performance, rev
 
 ## 📊 Dashboard Preview
 
+### Home
 ![Home](screenshots/home.png)
 
+### Overview
 ![Overview](screenshots/overview.png)
 
+### Ride & Revenue Overview
 ![Ride & Revenue](screenshots/ride-revenue.png)
 
+### Cancellation & Customer Insights
 ![Cancellation & Customer Insights](screenshots/cancellation-customer.png)
 
+### Operations & Demand Analysis
 ![Operations & Demand Analysis](screenshots/operations-demand.png)
 
 ## 📌 Project Overview
